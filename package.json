@@ -1,0 +1,19 @@
+{
+  "name": "reddit_daily_programmer",
+  "version": "1.0.0",
+  "description": "Solutions of daily programmer puzzles on rabbit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "puzzles",
+    "reddit",
+    "programmer"
+  ],
+  "author": "Ivan Viskovic",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "4.1.2"
+  }
+}
